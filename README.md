@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cnelson720
+- 👋 Hi, I’m Chris!
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and python
 - 📫 You can reach me at chris.nelson.dev@gmail.com
