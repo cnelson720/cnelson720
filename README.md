@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris!
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning react, javascript, and python
 - 📫 You can reach me at chris.nelson.dev@gmail.com
 
 <!---
